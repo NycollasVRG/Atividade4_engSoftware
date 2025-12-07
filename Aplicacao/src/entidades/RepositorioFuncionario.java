@@ -19,6 +19,7 @@ public class RepositorioFuncionario {
                 return f;
             }
         }
+        return null;
     }
 
     // Metodo para remover funcionário
